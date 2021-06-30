@@ -1,0 +1,84 @@
+h1, h2{
+    font-family: "Roboto";
+    text-align: center;
+    font-weight: medium;
+    
+}
+
+.team {
+    
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    font-family: 'Roboto';
+}
+
+.team_member {
+    display: flex;
+    position: relative;
+    width: 400px;
+    height: auto;
+    margin: 12px;
+    
+    background: #59929C;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+}
+.team_member .textos{
+    width: 212px;
+}
+
+.team_member .nome {
+
+    font-weight: medium;
+    font-size: 20px;
+    margin-top: 6px;
+    margin-bottom: 0;
+    color: #FFFFFF;
+    
+}
+
+.team_member .descricao {
+    font-family: 'Roboto';
+    font-size: 16px;
+    margin-top: 6px;
+    margin-bottom: 6px;
+    font-weight: 300;
+
+    color: #FFFFFF;
+
+}
+
+.team_member .imagem {
+    width: 95px;
+    height: 95px;
+    border-radius: 50%;
+    margin: 6px;
+    margin-left: 12px;
+    margin-right: 16px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.team_member .imagem img{
+    width: 95px;
+    height: 95px;
+    border-radius: 50%;
+}
+
+.team_member .links {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin: 12px;
+    margin-top: 6;
+    margin-bottom: 6;
+    
+}
+
+.team_member .links img{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    box-shadow: 0px 4px 4px rgba(78, 45, 45, 0.25);
+    
+}
