@@ -7,7 +7,7 @@
 
 **🚀 Acesse o [ArtFios da Debs]()**
 
-**📘 Acesse a [Documentação](https://marcosbb.github.io/ArtFios_da_debs/)**
+**📘 Acesse a [Documentação](https://marcosbb.github.io/ArtFios_da_Debs/)**
 
 ## ✒️ Autores
 Estas são as pessoas brilhantes por trás do desenvolvimento do site da ArtFios:
